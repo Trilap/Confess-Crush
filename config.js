@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu mình anh <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu, cỡ nào cũng phải yêu. vì Trí Lập cute,yêu bé Chan nhất <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    mess: 'Anh biết mà 🥰. Yêu  nhiều nhiều 😘😘',
     messDesc: ' À MAI MÌNH ĐI SG RỒI Ớ KO BIẾT CÓ DC Ở BÊN EM 1 NGÀY HONG NỮA .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://output.jsbin.com/denanuq' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
