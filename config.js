@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Hello bà zà,Wep này dành riêng cho Diễm Trang",
-    introTitle: 'Trang Này dành riêng cho bé Chan,
+    introTitle: 'Trang Này dành riêng cho bé Chan',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh,
